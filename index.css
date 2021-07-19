@@ -1,0 +1,20 @@
+body{
+    background-color:lightgrey;
+}
+.text{
+    padding: 20px;    
+}
+a{
+    border-bottom: 1px solid skyblue;
+}
+.fa{
+    color:hsla(240, 100%, 68%, 0.856);
+}
+.box-center{
+    background-color: white;
+    padding : 60px 10px;
+    margin : 30px 0px;
+}
+.box{
+    padding: 60px 0px;
+}
